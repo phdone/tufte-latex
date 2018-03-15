@@ -1,0 +1,8 @@
+title: Tufte-LaTeX
+description: A Tufte-inspired LaTeX class for producing handouts, papers, and books
+google_analytics: UA-109729-9
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
